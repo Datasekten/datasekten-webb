@@ -1,0 +1,86 @@
+#jonsa {
+    filter: invert(100%);
+    display: inline-block;
+    width: 10vw;
+}
+#datasekten {
+    font-family: nokia;
+    margin-left: 5px;
+    display: inline-block;
+    font-size: 7vw;
+    margin-bottom: 3vw;
+}
+
+body {
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
+header {
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav ul li{
+    margin-right: calc(3px + 0.1vw);
+    padding-right: calc(5px + 0.1vw);
+    display: inline-block;
+    font-family: nokia;
+    font-size: calc(10px + +0.5vw);
+    border-right: 2px solid white;
+}
+nav ul li:last-child {
+    border-right: none;
+}
+.current {
+    color: silver;
+}
+.navLink:link {
+    text-decoration: none;
+}
+
+main {
+    padding-left: 2vw;
+    padding-right: 2vw;
+}
+.mainHr {
+    border: 1px dashed white;
+}
+#mainBox {
+    max-width: 900px;
+    margin: auto;
+}
+#mainImage {
+    float: right;
+    width: 33%;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    border: 3px double white;
+}
+
+h1, h2, address{
+    font-family: ubuntuMono;
+}
+p, li, dt, dd {
+    font-family: courierPrime;
+    font-size: 1.2em;
+}
+
+address {
+    text-align: right;
+}
+
+footer, hr {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+* {
+    color: white;
+}
