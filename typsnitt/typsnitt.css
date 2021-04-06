@@ -1,46 +1,46 @@
 @font-face {
-    font-family: nokia;
-    src: url(nokiafc22.ttf);
+  font-family: nokia;
+  src: url(nokiafc22.ttf);
 }
 
 @font-face {
-    font-family: ubuntuMono;
-    src: url(UbuntuMono-R.ttf);
+  font-family: ubuntuMono;
+  src: url(UbuntuMono-R.ttf);
 }
 @font-face {
-    font-family: ubuntuMono;
-    src: url(UbuntuMono-RI.ttf);
-    font-style: italic;
+  font-family: ubuntuMono;
+  src: url(UbuntuMono-RI.ttf);
+  font-style: italic;
 }
 @font-face {
-    font-family: ubuntuMono;
-    src: url(UbuntuMono-B.ttf);
-    font-weight: bold;
+  font-family: ubuntuMono;
+  src: url(UbuntuMono-B.ttf);
+  font-weight: bold;
 }
 @font-face {
-    font-family: ubuntuMono;
-    src: url(UbuntuMono-BI.ttf);
-    font-style: italic;
-    font-weight: bold;
+  font-family: ubuntuMono;
+  src: url(UbuntuMono-BI.ttf);
+  font-style: italic;
+  font-weight: bold;
 }
 
 @font-face {
-    font-family: courierPrime;
-    src: url(CourierPrime-Regular.ttf);
+  font-family: courierPrime;
+  src: url(CourierPrime-Regular.ttf);
 }
 @font-face {
-    font-family: courierPrime;
-    src: url(CourierPrime-Italic.ttf);
-    font-style: italic;
+  font-family: courierPrime;
+  src: url(CourierPrime-Italic.ttf);
+  font-style: italic;
 }
 @font-face {
-    font-family: courierPrime;
-    src: url(CourierPrime-Bold.ttf);
-    font-weight: bold;
+  font-family: courierPrime;
+  src: url(CourierPrime-Bold.ttf);
+  font-weight: bold;
 }
 @font-face {
-    font-family: courierPrime;
-    src: url(CourierPrime-BoldItalic.ttf);
-    font-style: italic;
-    font-weight: bold;
+  font-family: courierPrime;
+  src: url(CourierPrime-BoldItalic.ttf);
+  font-style: italic;
+  font-weight: bold;
 }
