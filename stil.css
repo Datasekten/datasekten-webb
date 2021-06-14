@@ -75,6 +75,9 @@ p, li, dt, dd {
   font-family: courierPrime;
   font-size: 1.2em;
 }
+li ul li{
+  font-size: 1em; /*Fix later*/
+}
 
 address {
   text-align: right;
