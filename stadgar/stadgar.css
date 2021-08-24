@@ -1,0 +1,17 @@
+h1 {
+  margin-bottom: 0.3em;
+}
+h2 {
+  margin-top: 1.5em;
+}
+#subtitle {
+  margin-top: 0em;
+}
+#revisedDate {
+  margin-top: 0em;
+  text-align: right;
+  font-size: 1em;
+}
+ul {
+  margin-top: 0em;
+}
