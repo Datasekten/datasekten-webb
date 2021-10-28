@@ -98,9 +98,6 @@ footer, hr {
 }
 
 @media screen and (max-width: 600px) {
-  body {
-    margin: 0;
-  }
   .imageContainer {
     width: 100%;
     text-align: center;
@@ -110,8 +107,5 @@ footer, hr {
   #mainImage {
     box-sizing: border-box;
     width: 60%;
-  }
-  p, li {
-    font-size: 1.1rem;
   }
 }
