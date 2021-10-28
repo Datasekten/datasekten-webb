@@ -56,11 +56,16 @@ main {
   max-width: 900px;
   margin: auto;
 }
-#mainImage {
+.imageContainer {
   float: right;
   width: 33%;
   margin-left: 1em;
   margin-bottom: 1em;
+}
+
+#mainImage {
+  width: 100%;
+  height: auto;
   border: 3px double white;
 }
 .icons {
@@ -90,4 +95,23 @@ footer, hr {
 }
 * {
   color: white;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    margin: 0;
+  }
+  .imageContainer {
+    width: 100%;
+    text-align: center;
+    float: none;
+    margin-left: 0;
+  }
+  #mainImage {
+    box-sizing: border-box;
+    width: 60%;
+  }
+  p, li {
+    font-size: 1.1rem;
+  }
 }
