@@ -3,6 +3,7 @@
   display: inline-block;
   width: 10vw;
 }
+
 #datasekten {
   font-family: nokia;
   margin-left: 5px;
@@ -73,12 +74,12 @@ main {
   filter: invert(100%);
 }
 
-h1, h2, address{
+h1, h2, h3, address{
   font-family: ubuntuMono;
 }
 p, li, dt, dd {
-  font-family: courierPrime;
-  font-size: 1.2em;
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 1em;
 }
 li ul li{
   font-size: 1em; /*Fix later*/
@@ -92,6 +93,9 @@ footer, hr {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+.dashed-line {
+  border-style: dashed;
 }
 * {
   color: white;

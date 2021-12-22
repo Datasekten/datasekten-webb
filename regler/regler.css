@@ -1,0 +1,36 @@
+h2 {
+  margin-top: 3rem;
+  margin-bottom: 0.3rem;
+  font-size: 1.2rem;
+}
+
+h3 {
+  margin-top: 1.4rem;
+  margin-bottom: 0.3rem;
+  font-size: 1.2rem;
+}
+
+.title
+{
+  margin-bottom: 0.3rem;
+  font-size: 2.55rem;
+}
+
+.subtitle
+{
+  margin-top: 1rem;
+  font-size: 1.45rem;
+}
+
+.revised-date
+{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: right;
+  font-size: 1rem;
+}
+
+
+ul {
+  margin-top: -1rem;
+}
