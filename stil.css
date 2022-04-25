@@ -1,3 +1,68 @@
+@font-face
+{
+  font-family: nokia;
+  src: url(typsnitt/nokiafc22.ttf);
+}
+
+
+@font-face
+{
+  font-family: 'IBM Plex Mono';
+  src: url(typsnitt/IBMPlexMono-Regular.ttf);
+}
+
+@font-face
+{
+  font-family: 'IBM Plex Mono';
+  src: url(typsnitt/IBMPlexMono-Italic.ttf);
+  font-style: italic;
+}
+
+@font-face
+{
+  font-family: 'IBM Plex Mono';
+  src: url(typsnitt/IBMPlexMono-Bold.ttf);
+  font-weight: bold;
+}
+
+@font-face
+{
+  font-family: 'IBM Plex Mono';
+  src: url(typsnitt/IBMPlexMono-BoldItalic.ttf);
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+@font-face
+{
+  font-family: ubuntuMono;
+  src: url(typsnitt/UbuntuMono-R.ttf);
+}
+
+@font-face
+{
+  font-family: ubuntuMono;
+  src: url(typsnitt/UbuntuMono-RI.ttf);
+  font-style: italic;
+}
+
+@font-face
+{
+  font-family: ubuntuMono;
+  src: url(typsnitt/UbuntuMono-B.ttf);
+  font-weight: bold;
+}
+
+@font-face
+{
+  font-family: ubuntuMono;
+  src: url(typsnitt/UbuntuMono-BI.ttf);
+  font-style: italic;
+  font-weight: bold;
+}
+
+
 #jonsa {
   filter: invert(100%);
   display: inline-block;
