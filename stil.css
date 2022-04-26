@@ -63,13 +63,15 @@
 }
 
 
-#jonsa {
+#jonsa
+{
   filter: invert(100%);
   display: inline-block;
   width: 10vw;
 }
 
-#datasekten {
+#datasekten
+{
   font-family: nokia;
   margin-left: 5px;
   display: inline-block;
@@ -77,23 +79,33 @@
   margin-bottom: 3vw;
 }
 
-body {
+
+body
+{
   margin-left: 4vw;
   margin-right: 4vw;
 }
 
-header {
+
+header
+{
   text-align: center;
 }
-nav {
+
+nav
+{
   text-align: center;
 }
-nav ul {
+
+nav ul
+{
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
-nav ul li{
+
+nav ul li
+{
   margin-right: calc(3px + 0.1vw);
   padding-right: calc(5px + 0.1vw);
   display: inline-block;
@@ -101,79 +113,115 @@ nav ul li{
   font-size: calc(10px + +0.5vw);
   border-right: 2px solid white;
 }
-nav ul li:last-child {
+
+nav ul li:last-child
+{
   border-right: none;
 }
-.current {
+
+.current
+{
   color: silver;
 }
-.navLink:link {
+
+.navLink:link
+{
   text-decoration: none;
 }
 
-main {
+
+main
+{
   padding-left: 2vw;
   padding-right: 2vw;
 }
-.mainHr {
+
+.mainHr
+{
   border: 1px dashed white;
 }
-#mainBox {
+
+#mainBox
+{
   max-width: 900px;
   margin: auto;
 }
-.imageContainer {
+
+.imageContainer
+{
   float: right;
   width: 33%;
   margin-left: 1em;
   margin-bottom: 1em;
 }
 
-#mainImage {
+#mainImage
+{
   width: 100%;
   height: auto;
   border: 3px double white;
 }
-.icons {
+
+.icons
+{
   width: 48px;
   filter: invert(100%);
 }
 
-h1, h2, h3, address{
+
+h1, h2, h3, address
+{
   font-family: ubuntuMono;
 }
-p, li, dt, dd {
+
+p, li, dt, dd
+{
   font-family: 'IBM Plex Mono', monospace;
   font-size: 1em;
 }
-li ul li{
+
+li ul li
+{
   font-size: 1em; /*Fix later*/
 }
 
-address {
+
+address
+{
   text-align: right;
 }
 
-footer, hr {
+footer, hr
+{
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
-.dashed-line {
+
+
+.dashed-line
+{
   border-style: dashed;
 }
-* {
+
+
+*
+{
   color: white;
 }
 
-@media screen and (max-width: 600px) {
-  .imageContainer {
+
+@media screen and (max-width: 600px)
+{
+  .imageContainer
+  {
     width: 100%;
     text-align: center;
     float: none;
     margin-left: 0;
   }
-  #mainImage {
+  #mainImage 
+  {
     box-sizing: border-box;
     width: 60%;
   }
