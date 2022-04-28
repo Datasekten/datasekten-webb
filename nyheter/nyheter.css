@@ -1,7 +1,16 @@
-.datum{
-  margin-top: 25px;
+
+.datum
+{
+  margin-top: 50px;
   margin-bottom: 0px;
 }
-.nyhet{
+
+.senaste-datum
+{
+  margin-top: 25px;
+}
+
+.nyhet
+{
   margin-top: 4px;
 }
