@@ -1,0 +1,27 @@
+{
+    "bild1": {
+        "name": "A032_Bild_1",
+        "description": "En bild på den gamla lokalen och en gammal möblering.",
+        "path": "arkiv/sekt.png"
+    },
+    "bild2": {
+        "name": "A032_Bild_2",
+        "description": "En bild på den gamla lokalen och en gammal möblering.",
+        "path": "arkiv/sekt1.png"
+    },
+    "bild3": {
+        "name": "A032_Bild_3",
+        "description": "En bild på den gamla lokalen och en gammal möblering från en annan vinkel.",
+        "path": "arkiv/sektbild1.jpg"
+    },
+    "bild4": {
+        "name": "A032_Bild_4",
+        "description": "En bild på den gamla lokalen och en gammal möblering från en annan vinkel.",
+        "path": "arkiv/sektbild2.jpg"
+    },
+    "bild5": {
+        "name": "A032_Bild_5",
+        "description": "En bild på den gamla lokalen och en gammal möblering.",
+        "path": "arkiv/sektbild3.jpg"
+    }
+}
