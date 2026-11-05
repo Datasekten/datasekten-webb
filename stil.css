@@ -151,14 +151,18 @@ main
 {
   float: right;
   width: 100%;
-  margin-left: 1em;
-  margin-bottom: 1em;
-  padding: 5px;
+}
+
+#aktuell, #arkiv {
+	display: grid;
+	grid-template-columns: 0.5fr 0.5fr;
+	grid-template-rows: 0.5fr 0.5fr;
+	align-items: center;
 }
 
 #mainImage
 {
-  width: 33%;
+  width: 80%;
   height: auto;
   border: 3px double white;
 }
