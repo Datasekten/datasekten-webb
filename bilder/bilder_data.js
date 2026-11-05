@@ -46,5 +46,11 @@ const bilder_data = `{
         "name": "A016_Bild_3",
         "description": "Sekten får nytt syre varje dag via vårt avancerade cirkulationssytem. Var bara försiktig så att varken kvittot prasslar eller att leninanden sjunger...",
         "path": "aktuella/IMG_0404.jpeg"
+    },
+	"bild9": {
+		"category": "aktuell",
+        "name": "A016_Bild_4",
+        "description": "Sekten by night vid Fukushima.",
+        "path": "aktuella/IMG_5663-3.jpeg"
     }
 }`;
