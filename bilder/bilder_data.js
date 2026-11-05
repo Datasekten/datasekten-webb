@@ -1,4 +1,4 @@
-const bilder_data = '{
+const bilder_data = `{
     "bild1": {
 		"category": "arkiv",
         "name": "A032_Bild_1",
@@ -47,4 +47,4 @@ const bilder_data = '{
         "description": "Sekten får nytt syre varje dag via vårt avancerade cirkulationssytem. Var bara försiktig så att varken kvittot prasslar eller att leninanden sjunger...",
         "path": "aktuella/IMG_0404.jpeg"
     }
-}';
+}`;

@@ -150,14 +150,15 @@ main
 .imageContainer
 {
   float: right;
-  width: 33%;
+  width: 100%;
   margin-left: 1em;
   margin-bottom: 1em;
+  padding: 5px;
 }
 
 #mainImage
 {
-  width: 100%;
+  width: 33%;
   height: auto;
   border: 3px double white;
 }
