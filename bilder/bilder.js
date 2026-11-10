@@ -6,7 +6,7 @@ function createImages() {
 		
 		var bild_element = document.createElement("div");
 		bild_element.className = "imageContainer";
-		bild_element.innerHTML = `<a><img src="${bild.path}" id="mainImage"></img></a>`
+		bild_element.innerHTML = `<a><img title="${bild.description}" src="${bild.path}" id="mainImage"></img></a>`
 
 		var container = document.getElementById(bild.category);
 		container.appendChild(bild_element);
