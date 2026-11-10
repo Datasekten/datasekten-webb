@@ -167,6 +167,13 @@ main
   border: 3px double white;
 }
 
+#frontImage
+{
+  width: 33%;
+  height: auto;
+  border: 3px double white;
+}
+
 .icons
 {
   width: 48px;
